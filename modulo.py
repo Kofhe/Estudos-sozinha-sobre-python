@@ -8,6 +8,9 @@ print(math.floor(7.8))
 #arredonda para cima >= resultado:8
 print(math.ceil(7.8))
 
+#de outra aba
+#def somarnumero(num1, num2):
+    #return f"A soma é: {num1+num2}"
 
 # import contar
 
